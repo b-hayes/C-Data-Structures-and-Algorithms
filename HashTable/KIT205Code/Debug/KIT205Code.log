@@ -1,0 +1,11 @@
+﻿  hashtable.c
+x:\_utas\bict_3rd_year\kit205 data structures and algerithms (repeat)\tutorialwk5\kit205code\hashtable.c(15): warning C4018: '<': signed/unsigned mismatch
+x:\_utas\bict_3rd_year\kit205 data structures and algerithms (repeat)\tutorialwk5\kit205code\hashtable.c(27): warning C4013: 'strlen' undefined; assuming extern returning int
+x:\_utas\bict_3rd_year\kit205 data structures and algerithms (repeat)\tutorialwk5\kit205code\hashtable.c(39): warning C4047: 'function': 'int' differs in levels of indirection from 'char *'
+x:\_utas\bict_3rd_year\kit205 data structures and algerithms (repeat)\tutorialwk5\kit205code\hashtable.c(39): warning C4024: 'insert_at_front': different types for formal and actual parameter 2
+x:\_utas\bict_3rd_year\kit205 data structures and algerithms (repeat)\tutorialwk5\kit205code\hashtable.c(46): warning C4047: 'function': 'int' differs in levels of indirection from 'char *'
+x:\_utas\bict_3rd_year\kit205 data structures and algerithms (repeat)\tutorialwk5\kit205code\hashtable.c(46): warning C4024: 'delete_list': different types for formal and actual parameter 2
+x:\_utas\bict_3rd_year\kit205 data structures and algerithms (repeat)\tutorialwk5\kit205code\hashtable.c(51): warning C4013: 'printf' undefined; assuming extern returning int
+x:\_utas\bict_3rd_year\kit205 data structures and algerithms (repeat)\tutorialwk5\kit205code\hashtable.c(58): warning C4018: '<': signed/unsigned mismatch
+  KIT205Code.vcxproj -> X:\_UTAS\BICT_3rd_year\KIT205 Data Structures and Algerithms (repeat)\TutorialWk5\Debug\KIT205Code.exe
+  KIT205Code.vcxproj -> X:\_UTAS\BICT_3rd_year\KIT205 Data Structures and Algerithms (repeat)\TutorialWk5\Debug\KIT205Code.pdb (Full PDB)

@@ -1,0 +1,9 @@
+﻿  week2.c
+x:\_utas\bict_3rd_year\kit205 data structures and algerithms (repeat)\week2 - linkedlist\week2 - linkedlist\week2.c(9): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+x:\_utas\bict_3rd_year\kit205 data structures and algerithms (repeat)\week2 - linkedlist\week2 - linkedlist\week2.c(16): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+x:\_utas\bict_3rd_year\kit205 data structures and algerithms (repeat)\week2 - linkedlist\week2 - linkedlist\week2.c(103): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+  Week2 - LinkedList.vcxproj -> X:\_UTAS\BICT_3rd_year\KIT205 Data Structures and Algerithms (repeat)\Week2 - LinkedList\Debug\Week2 - LinkedList.exe
+  Week2 - LinkedList.vcxproj -> X:\_UTAS\BICT_3rd_year\KIT205 Data Structures and Algerithms (repeat)\Week2 - LinkedList\Debug\Week2 - LinkedList.pdb (Full PDB)

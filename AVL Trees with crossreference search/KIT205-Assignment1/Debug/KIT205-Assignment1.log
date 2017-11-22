@@ -1,0 +1,6 @@
+﻿  avl.c
+x:\_utas\bict_3rd_year\kit205 data structures and algerithms (repeat)\a1\kit205-assignment1 - part b - old\kit205-assignment1 - part b\kit205-assignment1\avl.c(11): warning C4013: 'height' undefined; assuming extern returning int
+x:\_utas\bict_3rd_year\kit205 data structures and algerithms (repeat)\a1\kit205-assignment1 - part b - old\kit205-assignment1 - part b\kit205-assignment1\avl.c(34): warning C4013: 'new_taxRecord' undefined; assuming extern returning int
+x:\_utas\bict_3rd_year\kit205 data structures and algerithms (repeat)\a1\kit205-assignment1 - part b - old\kit205-assignment1 - part b\kit205-assignment1\avl.c(34): warning C4047: '=': 'TaxRecordPtr' differs in levels of indirection from 'int'
+  KIT205-Assignment1.vcxproj -> X:\_UTAS\BICT_3rd_year\KIT205 Data Structures and Algerithms (repeat)\A1\KIT205-Assignment1 - Part B - old\KIT205-Assignment1 - Part B\Debug\KIT205-Assignment1.exe
+  KIT205-Assignment1.vcxproj -> X:\_UTAS\BICT_3rd_year\KIT205 Data Structures and Algerithms (repeat)\A1\KIT205-Assignment1 - Part B - old\KIT205-Assignment1 - Part B\Debug\KIT205-Assignment1.pdb (Full PDB)

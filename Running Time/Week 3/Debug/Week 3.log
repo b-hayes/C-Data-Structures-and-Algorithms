@@ -1,0 +1,5 @@
+﻿  week3.c
+x:\_utas\[ bict 3rd year ]\kit205 data structures and algerithms (repeat)\week 3\week 3\week3.c(69): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1270): note: see declaration of 'scanf'
+  Week 3.vcxproj -> X:\_UTAS\[ BICT 3rd year ]\KIT205 Data Structures and Algerithms (repeat)\Week 3\Debug\Week 3.exe
+  Week 3.vcxproj -> X:\_UTAS\[ BICT 3rd year ]\KIT205 Data Structures and Algerithms (repeat)\Week 3\Debug\Week 3.pdb (Full PDB)
